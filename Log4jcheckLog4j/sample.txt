@@ -1,0 +1,10 @@
+INFO    2023-06-25 00:42:46,422 [main] log4j.TestingLog4j  -this log4j information 
+ERROR   2023-06-25 00:42:46,424 [main] log4j.TestingLog4j  -error occurce 
+WARN    2023-06-25 00:42:46,424 [main] log4j.TestingLog4j  -warning massage 
+DEBUG   2023-06-25 00:42:46,424 [main] log4j.TestingLog4j  -Debugging 
+FATAL   2023-06-25 00:42:46,424 [main] log4j.TestingLog4j  -critical error 
+INFO    2023-06-25 00:44:24,537 [main] log4j.TestingLog4j  -this log4j information 
+ERROR   2023-06-25 00:44:24,539 [main] log4j.TestingLog4j  -error occurce 
+WARN    2023-06-25 00:44:24,539 [main] log4j.TestingLog4j  -warning massage 
+DEBUG   2023-06-25 00:44:24,539 [main] log4j.TestingLog4j  -Debugging 
+FATAL   2023-06-25 00:44:24,539 [main] log4j.TestingLog4j  -critical error 
